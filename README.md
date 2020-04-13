@@ -9,7 +9,7 @@
 5. vagrant destory
 6. vagrant halt
 7. vagrant box
-8. Vagrant reload
+8. vagrant reload
 ### Websites
 
 http://www.vagrantbox.es/   This is for vagrant boxes you can use.
