@@ -13,7 +13,7 @@
 
 ### Websites
 
-http://www.vagrantbox.es/   This is for vagrant boxes you can use.
+1. http://www.vagrantbox.es/   This is for vagrant boxes you can use.
 
-https://app.vagrantup.com/boxes/search This is offical and uptodate.
+2. https://app.vagrantup.com/boxes/search This is offical and uptodate.
 
